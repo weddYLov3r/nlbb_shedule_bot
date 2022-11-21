@@ -1,12 +1,9 @@
 # nlbb_shedule_bot
 # Advanced User Telegram Bot
 ![Language](https://img.shields.io/badge/Language-Python3.10+-blue.svg?style=flat)
-[![BUILD-STATUS](https://github.com/weddYLov3r/nlbb_shedule_bot)]
-(https://github.com/weddYLov3r/nlbb_shedule_bot)
+[![BUILD-STATUS](https://github.com/weddYLov3r/nlbb_shedule_bot)](https://github.com/weddYLov3r/nlbb_shedule_bot)
 
-This is a telegram bot that creates a user bot for each user.
-The user bot allows you to use custom animations in any chat. 
-Animations are divided into paid and free
+This is a telegram bot that creates for students by student.
 
 
 --------
