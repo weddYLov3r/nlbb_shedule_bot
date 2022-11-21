@@ -16,7 +16,7 @@ This is a telegram bot that creates for students by student.
 - **Database:**
   - Sqlite3
 - **Payment:**
-  - [YooMoney](https://yoomoney.ru/to/4100117256730936)
+  - [YooMoney](https://yoomoney.ru)
 - **Debug:**
   - Pylint
   - Loguru
