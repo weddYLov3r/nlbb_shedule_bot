@@ -1,0 +1,17 @@
+# Telegram
+pyTelegramBotAPI
+urllib3
+
+# Database
+sqlite 3
+
+# Debug
+pylint_runner
+loguru
+
+# Other
+prettytables
+
+#Payment
+yoomoney
+trust wallet
